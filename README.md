@@ -3,5 +3,5 @@ To start enter:
 Wait, until services are ready. 
 
 To run separately:
-1) change DB URL in app.env file
+1) change DB URL in app.env file to yours 
 2) enter `make server` 
