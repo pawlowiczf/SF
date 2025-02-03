@@ -1,5 +1,5 @@
 To start enter:
-`docker compose up` 
+`docker compose up`. 
 Wait, until services are ready. 
 
 To run separately:
